@@ -1,7 +1,7 @@
 # 📊 Retail Sales Data Analysis
 
 ## 📖 Project Overview
-This project analyzes retail sales data to understand customer demographics, product performance, and sales trends using Python, Power BI, and data visualization.
+This project analyzes retail sales data to understand customer demographics, product performance, and sales trends using Power BI, and data visualization.
 
 ## 🎯 Objectives
 - Analyze customer behavior by age and gender
