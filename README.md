@@ -27,7 +27,8 @@ dashboard/ → Power BI file
 - Price vs quantity relationship
 
 ## 📄 Report
-See full report: [`report/Retail_Sales_Analysis_Report.pdf]
+
+See full report: [View Report](report/Retail_Sales_Analysis_Report.pdf)
 
 ## 📊 Dashboard
 An interactive dashboard created using Power BI
