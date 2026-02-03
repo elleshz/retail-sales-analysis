@@ -31,7 +31,7 @@ See full report: [`report/Retail_Sales_Analysis_Report.pdf]
 
 ## 📊 Dashboard
 An interactive dashboard created using Power BI.
-![Dashboard](Retail Data Dashboard Snapshot.png)
+![Dashboard](screenshots/Retail Data Dashboard Snapshot.png)
 
 
 ## 👤 Author
