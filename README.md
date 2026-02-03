@@ -28,7 +28,7 @@ dashboard/ → Power BI file
 
 ## 📄 Report
 
-See full report: [View Report] (Retail Sales Data Analysis Report.pdf)
+See full report: [View Report]
 
 ## 📊 Dashboard
 An interactive dashboard created using Power BI
