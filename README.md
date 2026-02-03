@@ -30,8 +30,9 @@ dashboard/ → Power BI file
 See full report: [`report/Retail_Sales_Analysis_Report.pdf]
 
 ## 📊 Dashboard
-An interactive dashboard created using Power BI.
-[![Dashboard](https://github.com/elleshz/retail-sales-analysis/blob/main/Retail%20Data%20Dashboard%20Snapshot.png)]
+An interactive dashboard created using Power BI
+
+![Dashboard](https://github.com/elleshz/retail-sales-analysis/blob/main/Retail%20Data%20Dashboard%20Snapshot.png)
 
 
 ## 👤 Author
